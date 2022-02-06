@@ -1,0 +1,23 @@
+{ "devices": [
+    {
+    "host": "172.20.20.2",
+    "auth_username": "admin",
+    "auth_password": "admin",
+    "auth_strict_key": false,
+    "platform": "arista_eos"
+    },
+    {"host": "172.20.20.3",
+        "auth_username": "admin",
+        "auth_password": "admin",
+        "auth_strict_key": false,
+        "platform": "arista_eos"
+    },
+    {"host": "172.20.20.5",
+        "auth_username": "admin",
+        "auth_password": "admin",
+        "auth_strict_key": false,
+        "platform": "arista_eos"
+    }
+
+]
+}

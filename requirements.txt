@@ -1,0 +1,4 @@
+aiofile==3.7.4
+aiopath==0.5.12
+scrapli==2021.7.30
+scrapli-netconf==2021.7.30

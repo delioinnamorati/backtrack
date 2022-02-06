@@ -1,0 +1,12 @@
+pytest==6.2.5
+pytest-cov==2.12.1
+mypy==0.931
+black==21.12b0
+nox==2022.01.07
+pydocstyle==6.1.1,<7.0.0
+isort>=5.10.1,<6.0.0
+pylint==2.12.2
+pylama==8.3.7,<9.0.0
+pycodestyle==2.8.0,<3.0.0
+
+
